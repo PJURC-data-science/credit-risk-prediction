@@ -1,6 +1,6 @@
 ![banner](https://github.com/PJURC-data-science/credit-risk-prediction/blob/main/media/banner.png)
 
-# Travel Insurance Prediction: Customer Purchase Analysis
+# Credit Risk Prediction: Loan Default Analysis
 [View Notebook](https://github.com/PJURC-data-science/credit-risk-prediction/blob/main/Credit%20Risk%20Prediction.ipynb)
 
 A machine learning analysis to predict loan default risk for Home Credit Group clients. This study implements multiple ML models, handles complex missing data scenarios, and deploys a production model to Google Cloud Services.
